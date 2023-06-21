@@ -1,1 +1,2 @@
-# Med_speak
+
+The Report Conversion for Patients project aims to simplify medical reports and make them more accessible to patients. Often, medical reports are filled with technical jargon and complex terminology, making it challenging for patients to understand their own health information. This project addresses this issue by providing a solution that converts medical reports into simple, easy-to-understand language for patients.
